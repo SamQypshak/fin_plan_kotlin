@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fin_plan_kotlin</string>
+    <string name="expenses">Расходы</string>
+    <string name="incomes">Доходы</string>
+</resources>

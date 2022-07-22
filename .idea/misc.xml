@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/work/fin_plan_kotlin/app/src/main/res/layout/activity_expense_form.xml" value="0.42777777777777776" />
+        <entry key="..\:/android projects/work/fin_plan_kotlin/app/src/main/res/layout/activity_expense_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/android projects/work/fin_plan_kotlin/app/src/main/res/layout/activity_income_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/android projects/work/fin_plan_kotlin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android projects/work/fin_plan_kotlin/app/src/main/res/layout/expense_list_item.xml" value="0.14323607427055704" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

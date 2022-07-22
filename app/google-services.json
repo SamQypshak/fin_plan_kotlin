@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049303432517",
+    "project_id": "finplan-a8e72",
+    "storage_bucket": "finplan-a8e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049303432517:android:58647448850cb0e494522c",
+        "android_client_info": {
+          "package_name": "kz.kumgan.fin_plan_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049303432517-114vdm6npeh6eg14iag5agjt2c513tk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMrc8xP8NlD70deFgeBUfzJbSmk1xy3jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049303432517-114vdm6npeh6eg14iag5agjt2c513tk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
